@@ -9,4 +9,14 @@ body {
     text-align: center;
     color: black;
   }
+  .Titles {
+    border-style:ridge;
+    border-width: 10px;
+    border-color:black;
+    background-color:yellowgreen;
+    color:#0b0000;
+    font-family: fantasy;
+    letter-spacing: 3px;
+    padding: 5px;
+  }
   
