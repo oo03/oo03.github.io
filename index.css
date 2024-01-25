@@ -20,11 +20,4 @@ body {
     padding: 1px;
     margin: 10px;
   }
-  div {
-    background-color: yellowgreen;
-  width: 300px;
-  border: 10px solid black;
-  padding: 25px;
-  margin: 20px;
-  align-self: center;
-  }
+ 
