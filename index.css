@@ -26,5 +26,5 @@ body {
   border: 10px solid black;
   padding: 25px;
   margin: 20px;
-  vertical-align: middle;
+  align-self: center;
   }
