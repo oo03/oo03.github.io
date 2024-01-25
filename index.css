@@ -21,9 +21,10 @@ body {
     margin: 10px;
   }
   div {
-    background-color: lightgrey;
+    background-color: yellowgreen;
   width: 300px;
-  border: 15px solid yellowgreen;
+  border: 10px solid black;
   padding: 25px;
   margin: 20px;
+  vertical-align: middle;
   }
