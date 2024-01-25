@@ -11,12 +11,19 @@ body {
   }
   .Titles {
     border-style:solid;
-    border-width: 5px;
+    border-width: 10px;
     border-color:black;
     background-color:yellowgreen;
     color:#0b0000;
     font-family: fantasy;
     letter-spacing: 3px;
-    padding: 5px;
+    padding: 1px;
+    margin: 10px;
   }
-  
+  div {
+    background-color: lightgrey;
+  width: 300px;
+  border: 15px solid yellowgreen;
+  padding: 25px;
+  margin: 20px;
+  }
